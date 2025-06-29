@@ -12,7 +12,7 @@ A curated list of resources, papers, code, and tutorials for Diffusion Language 
   - [Foundational Works](#foundational-works)
   - [Discrete Diffusion Language Models](#discrete-diffusion-language-models)
   - [Continuous Diffusion Language Models](#continuous-diffusion-language-models)
-  - [Hybrid Approaches]
+  - [Hybrid Approaches](#hybrid-approaches)
   - [Applications](#applications)
 
  
