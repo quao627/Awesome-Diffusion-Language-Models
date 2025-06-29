@@ -1,5 +1,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models) 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![](https://img.shields.io/github/stars/quao627/Awesome-Diffusion-Language-Models)](https://github.com/quao627/Awesome-Diffusion-Language-Models)
+[![](https://img.shields.io/github/license/quao627/Awesome-Diffusion-Language-Models)](https://github.com/quao627/Awesome-Diffusion-Language-Models/blob/main/LICENSE)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fquao627%2FAwesome-Diffusion-Language-Models&label=visitors&countColor=%2337d67a&style=flat&labelStyle=none)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fquao627%2FAwesome-Diffusion-Language-Models)
 
 A curated list of resources, papers, code, and tutorials for Diffusion Language Models (DLMs), covering research progress, implementations, benchmarks, and applications.
 
