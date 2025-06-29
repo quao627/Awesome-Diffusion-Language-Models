@@ -15,7 +15,7 @@ A curated list of resources, papers, code, and tutorials for Diffusion Language 
   - [Discrete-Time Diffusion Language Models](#discrete-time-diffusion-language-models)
   - [Continuous-Time Diffusion Language Models](#continuous-time-diffusion-language-models)
   - [Reasoning](#reasoning)
-  - [Multi-Modality](#multi-modality)
+  - [Multimodal](#multimodal)
   - [Hybrid Approaches](#hybrid-approaches)
   - [Efficiency](#efficiency)
   - [Applications](#applications)
@@ -92,7 +92,7 @@ ICML 2024. [[Paper](https://arxiv.org/abs/2310.16834)] [[Code](https://github.co
 *Siyan Zhao, Devaansh Gupta, Qinqing Zheng, Aditya Grover* \
 Arxiv 2025. [[Paper](https://arxiv.org/abs/2504.12216)] [[Code](https://github.com/dllm-reasoning/d1)]
 
-## Multi-Modality
+## Multimodal
 
 **MMaDA: Multimodal Large Diffusion Language Models** \
 *Ling Yang, Ye Tian, Bowen Li, Xinchen Zhang, Ke Shen, Yunhai Tong, Mengdi Wang* \
