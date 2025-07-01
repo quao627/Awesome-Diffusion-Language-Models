@@ -13,6 +13,7 @@ A curated list of resources, papers, code, and tutorials for Diffusion Language 
   - [Closed Source](#closed-source)
   - [Open Source](#open-source)
 - [Papers](#papers)
+  - [Survey](#survey)
   - [Foundational Works](#foundational-works)
   - [Discrete-Time Diffusion Language Models](#discrete-time-diffusion-language-models)
   - [Continuous-Time Diffusion Language Models](#continuous-time-diffusion-language-models)
@@ -53,6 +54,11 @@ A curated list of resources, papers, code, and tutorials for Diffusion Language 
 [[Website](https://hkunlp.github.io/blog/2025/dream/)] [[Model](https://huggingface.co/Dream-org)] [[Code](https://github.com/HKUNLP/Dream)]
 
 # Papers
+## Survey
+**Discrete Diffusion in Large Language and Multimodal Models: A Survey** \
+*Runpeng Yu, Qi Li, Xinchao Wang* \
+Arxiv 2025 (Jun 16, 2025). [[Paper](https://arxiv.org/abs/2506.13759)]
+
 ## Foundational Works
 **Deep Unsupervised Learning using Nonequilibrium Thermodynamics** \
 *Jascha Sohl-Dickstein, Eric Weiss, Niru Maheswaranathan, Surya Ganguli* \
@@ -77,6 +83,17 @@ NeurIPS 2021. [[Paper](https://proceedings.neurips.cc/paper/2021/hash/67d96d458a
 *Shen Nie, Fengqi Zhu, Zebin You, Xiaolu Zhang, Jingyang Ou, Jun Hu, Jun Zhou, Yankai Lin, Ji-Rong Wen, Chongxuan Li* \
 Arxiv 2025. [[Paper](https://arxiv.org/abs/2502.09992)] [[Code](https://github.com/ML-GSAI/LLaDA)] [[Model](https://huggingface.co/GSAI-ML)]
 
+**LaViDa: A Large Diffusion Language Model for Multimodal Understanding** \
+*Shufan Li, Konstantinos Kallidromitis, Hritik Bansal, Akash Gokul, Yusuke Kato, Kazuki Kozuka, Jason Kuen, Zhe Lin, Kai-Wei Chang, Aditya Grover* \
+Arxiv 2025 (May 23, 2025). [[Paper](https://arxiv.org/abs/2505.16839)] [[Code](https://github.com/jacklishufan/LaViDa)]
+
+**LLaDA 1.5: Variance-Reduced Preference Optimization for Large Language Diffusion Models** \
+*Fengqi Zhu, Rongzhen Wang, Shen Nie, Xiaolu Zhang, Chunwei Wu, Jun Hu, Jun Zhou, Jianfei Chen, Yankai Lin, Ji-Rong Wen, Chongxuan Li* \
+Arxiv 2025 (May 25, 2025). [[Paper](https://arxiv.org/abs/2505.19223)] [[Code](https://github.com/ML-GSAI/LLaDA-1.5)]
+
+**LLaDA-V: Large Language Diffusion Models with Visual Instruction Tuning** \
+*Zebin You, Shen Nie, Xiaolu Zhang, Jun Hu, Jun Zhou, Zhiwu Lu, Ji-Rong Wen, Chongxuan Li* \
+Arxiv 2025 (May 22, 2025). [[Paper](https://arxiv.org/abs/2505.16933)] [[Code](https://github.com/ML-GSAI/LLaDA-V)]
 
 ## Continuous-Time Diffusion Language Models
 
@@ -93,6 +110,14 @@ ICML 2024. [[Paper](https://arxiv.org/abs/2310.16834)] [[Code](https://github.co
 **d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning** \
 *Siyan Zhao, Devaansh Gupta, Qinqing Zheng, Aditya Grover* \
 Arxiv 2025. [[Paper](https://arxiv.org/abs/2504.12216)] [[Code](https://github.com/dllm-reasoning/d1)]
+
+**Diffusion of Thoughts: Chain-of-Thought Reasoning in Diffusion Language Models** \
+*Jiacheng Ye, Shansan Gong, Liheng Chen, Lin Zheng, Jiahui Gao, Han Shi, Chuan Wu, Xin Jiang, Zhenguo Li, Wei Bi, Lingpeng Kong* \
+NeurIPS 2024. [[Paper](https://arxiv.org/abs/2402.07754)] [[Code](https://github.com/HKUNLP/diffusion-of-thoughts)]
+
+**Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models** \
+*Zemin Huang*, *Zhiyang Chen*, *Zijun Wang*, *Tiancheng Li*, *Guo-Jun Qi* \
+Arxiv 2025 (May 21, 2025). [[Paper](https://arxiv.org/abs/2505.10446)]
 
 ## Multimodal
 
