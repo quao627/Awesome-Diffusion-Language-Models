@@ -88,10 +88,6 @@ ICLR 2025. [[Paper](https://arxiv.org/abs/2410.17891)] [[Code](https://github.co
 *Shen Nie, Fengqi Zhu, Zebin You, Xiaolu Zhang, Jingyang Ou, Jun Hu, Jun Zhou, Yankai Lin, Ji-Rong Wen, Chongxuan Li* \
 Arxiv 2025. [[Paper](https://arxiv.org/abs/2502.09992)] [[Code](https://github.com/ML-GSAI/LLaDA)] [[Model](https://huggingface.co/GSAI-ML)]
 
-**LaViDa: A Large Diffusion Language Model for Multimodal Understanding** \
-*Shufan Li, Konstantinos Kallidromitis, Hritik Bansal, Akash Gokul, Yusuke Kato, Kazuki Kozuka, Jason Kuen, Zhe Lin, Kai-Wei Chang, Aditya Grover* \
-Arxiv 2025 (May 23, 2025). [[Paper](https://arxiv.org/abs/2505.16839)] [[Code](https://github.com/jacklishufan/LaViDa)]
-
 **LLaDA 1.5: Variance-Reduced Preference Optimization for Large Language Diffusion Models** \
 *Fengqi Zhu, Rongzhen Wang, Shen Nie, Xiaolu Zhang, Chunwei Wu, Jun Hu, Jun Zhou, Jianfei Chen, Yankai Lin, Ji-Rong Wen, Chongxuan Li* \
 Arxiv 2025 (May 25, 2025). [[Paper](https://arxiv.org/abs/2505.19223)] [[Code](https://github.com/ML-GSAI/LLaDA-1.5)]
@@ -129,6 +125,10 @@ Arxiv 2025 (May 21, 2025). [[Paper](https://arxiv.org/abs/2505.10446)]
 **MMaDA: Multimodal Large Diffusion Language Models** \
 *Ling Yang, Ye Tian, Bowen Li, Xinchen Zhang, Ke Shen, Yunhai Tong, Mengdi Wang* \
 Arxiv 2025. [[Paper](https://arxiv.org/abs/2505.15809)] [[Code](https://github.com/Gen-Verse/MMaDA)]
+
+**LaViDa: A Large Diffusion Language Model for Multimodal Understanding** \
+*Shufan Li, Konstantinos Kallidromitis, Hritik Bansal, Akash Gokul, Yusuke Kato, Kazuki Kozuka, Jason Kuen, Zhe Lin, Kai-Wei Chang, Aditya Grover* \
+Arxiv 2025 (May 23, 2025). [[Paper](https://arxiv.org/abs/2505.16839)] [[Code](https://github.com/jacklishufan/LaViDa)]
 
 ## Hybrid Approaches
 
