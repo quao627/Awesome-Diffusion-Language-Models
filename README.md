@@ -124,7 +124,7 @@ Arxiv 2025 (May 21, 2025). [[Paper](https://arxiv.org/abs/2505.10446)]
 
 **MMaDA: Multimodal Large Diffusion Language Models** \
 *Ling Yang, Ye Tian, Bowen Li, Xinchen Zhang, Ke Shen, Yunhai Tong, Mengdi Wang* \
-Arxiv 2025. [[Paper](https://arxiv.org/abs/2505.15809)] [[Code](https://github.com/Gen-Verse/MMaDA)]
+Arxiv 2025 (May 21, 2025). [[Paper](https://arxiv.org/abs/2505.15809)] [[Code](https://github.com/Gen-Verse/MMaDA)]
 
 **LaViDa: A Large Diffusion Language Model for Multimodal Understanding** \
 *Shufan Li, Konstantinos Kallidromitis, Hritik Bansal, Akash Gokul, Yusuke Kato, Kazuki Kozuka, Jason Kuen, Zhe Lin, Kai-Wei Chang, Aditya Grover* \
