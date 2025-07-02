@@ -92,10 +92,6 @@ Arxiv 2025. [[Paper](https://arxiv.org/abs/2502.09992)] [[Code](https://github.c
 *Fengqi Zhu, Rongzhen Wang, Shen Nie, Xiaolu Zhang, Chunwei Wu, Jun Hu, Jun Zhou, Jianfei Chen, Yankai Lin, Ji-Rong Wen, Chongxuan Li* \
 Arxiv 2025 (May 25, 2025). [[Paper](https://arxiv.org/abs/2505.19223)] [[Code](https://github.com/ML-GSAI/LLaDA-1.5)]
 
-**LLaDA-V: Large Language Diffusion Models with Visual Instruction Tuning** \
-*Zebin You, Shen Nie, Xiaolu Zhang, Jun Hu, Jun Zhou, Zhiwu Lu, Ji-Rong Wen, Chongxuan Li* \
-Arxiv 2025 (May 22, 2025). [[Paper](https://arxiv.org/abs/2505.16933)] [[Code](https://github.com/ML-GSAI/LLaDA-V)]
-
 ## Continuous-Time Diffusion Language Models
 
 **A Continuous Time Framework for Discrete Denoising Models** \
@@ -125,6 +121,10 @@ Arxiv 2025 (May 21, 2025). [[Paper](https://arxiv.org/abs/2505.10446)]
 **MMaDA: Multimodal Large Diffusion Language Models** \
 *Ling Yang, Ye Tian, Bowen Li, Xinchen Zhang, Ke Shen, Yunhai Tong, Mengdi Wang* \
 Arxiv 2025 (May 21, 2025). [[Paper](https://arxiv.org/abs/2505.15809)] [[Code](https://github.com/Gen-Verse/MMaDA)]
+
+**LLaDA-V: Large Language Diffusion Models with Visual Instruction Tuning** \
+*Zebin You, Shen Nie, Xiaolu Zhang, Jun Hu, Jun Zhou, Zhiwu Lu, Ji-Rong Wen, Chongxuan Li* \
+Arxiv 2025 (May 22, 2025). [[Paper](https://arxiv.org/abs/2505.16933)] [[Code](https://github.com/ML-GSAI/LLaDA-V)]
 
 **LaViDa: A Large Diffusion Language Model for Multimodal Understanding** \
 *Shufan Li, Konstantinos Kallidromitis, Hritik Bansal, Akash Gokul, Yusuke Kato, Kazuki Kozuka, Jason Kuen, Zhe Lin, Kai-Wei Chang, Aditya Grover* \
