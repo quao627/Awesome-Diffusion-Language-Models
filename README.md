@@ -22,6 +22,7 @@ A curated list of resources, papers, code, and tutorials for Diffusion Language 
   - [Hybrid Approaches](#hybrid-approaches)
   - [Efficiency](#efficiency)
   - [Applications](#applications)
+    - [Code Generation](#code-generation)
 
  
 # Resources
@@ -78,6 +79,10 @@ NeurIPS 2021. [[Paper](https://proceedings.neurips.cc/paper/2021/hash/958c530554
 **Argmax Flows and Multinomial Diffusion: Learning Categorical Distributions** \
 *Emiel Hoogeboom, Didrik Nielsen, Priyank Jaini, Patrick Forré, Max Welling* \
 NeurIPS 2021. [[Paper](https://proceedings.neurips.cc/paper/2021/hash/67d96d458abdef21792e6d8e590244e7-Abstract.html)] [[Code](https://github.com/didriknielsen/argmax_flows)]
+
+**Scaling Diffusion Language Models via Adaptation from Autoregressive Models** \
+*Shansan Gong, Shivam Agarwal, Yizhe Zhang, Jiacheng Ye, Lin Zheng, Mukai Li, Chenxin An, Peilin Zhao, Wei Bi, Jiawei Han, Hao Peng, Lingpeng Kong* \
+ICLR 2025. [[Paper](https://arxiv.org/abs/2410.17891)] [[Code](https://github.com/HKUNLP/DiffuLLaMA)]
 
 **Large Language Diffusion Models** \
 *Shen Nie, Fengqi Zhu, Zebin You, Xiaolu Zhang, Jingyang Ou, Jun Hu, Jun Zhou, Yankai Lin, Ji-Rong Wen, Chongxuan Li* \
@@ -137,4 +142,7 @@ ICLR 2025. [[Paper](https://arxiv.org/abs/2503.09573)] [[Code](https://github.co
 Arxiv 2025. [[Paper](https://arxiv.org/abs/2505.22618)] [[Code](https://github.com/NVlabs/Fast-dLLM)]
 
 ## Applications
-
+### Code Generation
+**DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation** \
+*Shansan Gong, Ruixiang Zhang, Huangjie Zheng, Jiatao Gu, Navdeep Jaitly, Lingpeng Kong, Yizhe Zhang* \
+Arxiv 2025. [[Paper](https://arxiv.org/abs/2506.20639)] [[Code](https://github.com/apple/ml-diffucoder)]
