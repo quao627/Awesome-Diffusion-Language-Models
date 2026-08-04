@@ -146,3 +146,4 @@ Arxiv 2025. [[Paper](https://arxiv.org/abs/2505.22618)] [[Code](https://github.c
 **DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation** \
 *Shansan Gong, Ruixiang Zhang, Huangjie Zheng, Jiatao Gu, Navdeep Jaitly, Lingpeng Kong, Yizhe Zhang* \
 Arxiv 2025. [[Paper](https://arxiv.org/abs/2506.20639)] [[Code](https://github.com/apple/ml-diffucoder)]
+- **Fast-dLLM++: Fréchet Profile Decoding for Faster Diffusion LLM Inference** (2026) [[arXiv](https://arxiv.org/abs/2606.02955)] [[Code](https://github.com/Ringo-Star/FastdLLM_plusplus)] [[Project Page](https://ringo-star.github.io/projectpage_frechet/)]
