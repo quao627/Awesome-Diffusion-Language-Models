@@ -104,6 +104,10 @@ ICML 2024. [[Paper](https://arxiv.org/abs/2310.16834)] [[Code](https://github.co
 
 ## Reasoning
 
+**d-OPSD: On-Policy Self-Distillation for Diffusion Language Models** \
+*Jun Zhang, Jiale Cheng, Zilong Zheng, Yuxuan Zhang, Zhenyu Hou, Yuxiao Dong, Jie Tang* \
+Arxiv 2026 (Jun 21, 2026). [[Paper](https://arxiv.org/abs/2606.18195)] [[Code](https://github.com/xingzhejun/d-opsd-code)]
+
 **d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning** \
 *Siyan Zhao, Devaansh Gupta, Qinqing Zheng, Aditya Grover* \
 Arxiv 2025. [[Paper](https://arxiv.org/abs/2504.12216)] [[Code](https://github.com/dllm-reasoning/d1)]
