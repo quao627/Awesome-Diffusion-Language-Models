@@ -76,6 +76,10 @@ NeurIPS 2021. [[Paper](https://proceedings.neurips.cc/paper/2021/hash/958c530554
 
 ## Discrete-Time Diffusion Language Models
 
+**Beyond Hard Masks: Progressive Token Evolution for Diffusion Language Models** \
+*Linhao Zhong, Linyu Wu, Bozhen Fang, Tianjian Feng, Chenchen Jing, Wen Wang, Jiaheng Zhang, Hao Chen, Chunhua Shen* \
+ACL 2026. [[Paper](https://arxiv.org/abs/2601.07351)] [[Code](https://github.com/aim-uofa/EvoTokenDLM)]
+
 **Argmax Flows and Multinomial Diffusion: Learning Categorical Distributions** \
 *Emiel Hoogeboom, Didrik Nielsen, Priyank Jaini, Patrick Forré, Max Welling* \
 NeurIPS 2021. [[Paper](https://proceedings.neurips.cc/paper/2021/hash/67d96d458abdef21792e6d8e590244e7-Abstract.html)] [[Code](https://github.com/didriknielsen/argmax_flows)]
