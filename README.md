@@ -118,6 +118,10 @@ Arxiv 2025 (May 21, 2025). [[Paper](https://arxiv.org/abs/2505.10446)]
 
 ## Multimodal
 
+**Dynin-Omni: Omnimodal Unified Large Diffusion Language Model** \
+*Jaeik Kim et al.* \
+Arxiv 2026 (March 9, 2026). [[Paper](https://arxiv.org/abs/2604.00007)] [[Code](https://github.com/AIDASLab/Dynin-Omni)]
+
 **MMaDA: Multimodal Large Diffusion Language Models** \
 *Ling Yang, Ye Tian, Bowen Li, Xinchen Zhang, Ke Shen, Yunhai Tong, Mengdi Wang* \
 Arxiv 2025 (May 21, 2025). [[Paper](https://arxiv.org/abs/2505.15809)] [[Code](https://github.com/Gen-Verse/MMaDA)]
