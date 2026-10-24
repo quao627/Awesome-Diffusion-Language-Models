@@ -116,6 +116,10 @@ NeurIPS 2024. [[Paper](https://arxiv.org/abs/2402.07754)] [[Code](https://github
 *Zemin Huang*, *Zhiyang Chen*, *Zijun Wang*, *Tiancheng Li*, *Guo-Jun Qi* \
 Arxiv 2025 (May 21, 2025). [[Paper](https://arxiv.org/abs/2505.10446)]
 
+**Empirical Analysis of Decoding Biases in Masked Diffusion Models** \
+*Pengcheng Huang, Tianming Liu, Zhenghao Liu, Yukun Yan, Shuo Wang, Tong Xiao, Zulong Chen, Maosong Sun* \
+ACL 2026. [[Paper](https://arxiv.org/abs/2508.13021)] [[Code](https://github.com/NEUIR/Uncode)]
+
 ## Multimodal
 
 **MMaDA: Multimodal Large Diffusion Language Models** \
